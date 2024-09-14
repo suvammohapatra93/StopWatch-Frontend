@@ -9,12 +9,14 @@ This is a simple, easy-to-use stopwatch web application built using HTML, CSS, a
 - Clean and minimalistic user interface with a background gradient overlay.
 - Fully responsive design for both desktop and mobile screens.
 
-## Preview
 
-![Stopwatch Preview](images/preview.png)
 
 ## Technologies Used
 
 - **HTML**: Structure and layout of the app.
 - **CSS**: Styling and responsive design.
 - **JavaScript**: Stopwatch functionality (time counting, start/stop/reset).
+
+
+
+### SUVAM MOHAPATRA ###
